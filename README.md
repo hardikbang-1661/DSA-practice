@@ -14,11 +14,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0041-first-missing-positive](https://github.com/hardikbang-1661/DSA-practice/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/hardikbang-1661/DSA-practice/tree/master/0128-longest-consecutive-sequence) |
+| [0229-majority-element-ii](https://github.com/hardikbang-1661/DSA-practice/tree/master/0229-majority-element-ii) |
 ## Hash Table
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/hardikbang-1661/DSA-practice/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/hardikbang-1661/DSA-practice/tree/master/0128-longest-consecutive-sequence) |
+| [0229-majority-element-ii](https://github.com/hardikbang-1661/DSA-practice/tree/master/0229-majority-element-ii) |
 ## Union-Find
 |  |
 | ------- |
@@ -27,4 +29,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/hardikbang-1661/DSA-practice/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
+## Sorting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/hardikbang-1661/DSA-practice/tree/master/0229-majority-element-ii) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/hardikbang-1661/DSA-practice/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
