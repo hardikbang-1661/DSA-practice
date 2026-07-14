@@ -12,10 +12,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/hardikbang-1661/DSA-practice/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/hardikbang-1661/DSA-practice/tree/master/0128-longest-consecutive-sequence) |
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/hardikbang-1661/DSA-practice/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/hardikbang-1661/DSA-practice/tree/master/0128-longest-consecutive-sequence) |
 ## Union-Find
 |  |
