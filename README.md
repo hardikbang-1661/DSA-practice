@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0223-rectangle-area](https://github.com/hardikbang-1661/DSA-practice/tree/master/0223-rectangle-area) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/hardikbang-1661/DSA-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/hardikbang-1661/DSA-practice/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/hardikbang-1661/DSA-practice/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/hardikbang-1661/DSA-practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/hardikbang-1661/DSA-practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/hardikbang-1661/DSA-practice/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/hardikbang-1661/DSA-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/hardikbang-1661/DSA-practice/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/hardikbang-1661/DSA-practice/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/hardikbang-1661/DSA-practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
@@ -111,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/hardikbang-1661/DSA-practice/tree/master/0223-rectangle-area) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/hardikbang-1661/DSA-practice/tree/master/3513-number-of-unique-xor-triplets-i) |
 <!---LeetCode Topics End-->
