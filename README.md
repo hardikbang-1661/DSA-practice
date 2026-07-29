@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/hardikbang-1661/DSA-practice/tree/master/0128-longest-consecutive-sequence) |
+| [0547-number-of-provinces](https://github.com/hardikbang-1661/DSA-practice/tree/master/0547-number-of-provinces) |
 ## String
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/hardikbang-1661/DSA-practice/tree/master/0102-binary-tree-level-order-traversal) |
+| [0547-number-of-provinces](https://github.com/hardikbang-1661/DSA-practice/tree/master/0547-number-of-provinces) |
 ## Binary Tree
 |  |
 | ------- |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/hardikbang-1661/DSA-practice/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0547-number-of-provinces](https://github.com/hardikbang-1661/DSA-practice/tree/master/0547-number-of-provinces) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -152,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/hardikbang-1661/DSA-practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/hardikbang-1661/DSA-practice/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
