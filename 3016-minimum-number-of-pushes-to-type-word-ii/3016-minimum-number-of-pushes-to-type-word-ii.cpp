@@ -1,7 +1,7 @@
 class Solution {
 public:
     int minimumPushes(string word) {
-        map<int,int> mp;
+        unordered_map<int,int> mp;
         for(int i=0;i<word.length();i++){
             mp[word[i]-'a']++;
         }
