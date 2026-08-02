@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0223-rectangle-area](https://github.com/hardikbang-1661/DSA-practice/tree/master/0223-rectangle-area) |
 | [0628-maximum-product-of-three-numbers](https://github.com/hardikbang-1661/DSA-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0781-rabbits-in-forest](https://github.com/hardikbang-1661/DSA-practice/tree/master/0781-rabbits-in-forest) |
+| [0877-stone-game](https://github.com/hardikbang-1661/DSA-practice/tree/master/0877-stone-game) |
 | [0991-broken-calculator](https://github.com/hardikbang-1661/DSA-practice/tree/master/0991-broken-calculator) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/hardikbang-1661/DSA-practice/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/hardikbang-1661/DSA-practice/tree/master/1814-count-nice-pairs-in-an-array) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/hardikbang-1661/DSA-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/hardikbang-1661/DSA-practice/tree/master/0692-top-k-frequent-words) |
 | [0781-rabbits-in-forest](https://github.com/hardikbang-1661/DSA-practice/tree/master/0781-rabbits-in-forest) |
+| [0877-stone-game](https://github.com/hardikbang-1661/DSA-practice/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/hardikbang-1661/DSA-practice/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/hardikbang-1661/DSA-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/hardikbang-1661/DSA-practice/tree/master/1814-count-nice-pairs-in-an-array) |
@@ -198,4 +200,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0991-broken-calculator](https://github.com/hardikbang-1661/DSA-practice/tree/master/0991-broken-calculator) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/hardikbang-1661/DSA-practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/hardikbang-1661/DSA-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/hardikbang-1661/DSA-practice/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/hardikbang-1661/DSA-practice/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
