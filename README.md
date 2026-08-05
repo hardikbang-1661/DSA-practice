@@ -147,12 +147,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/hardikbang-1661/DSA-practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/hardikbang-1661/DSA-practice/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/hardikbang-1661/DSA-practice/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0617-merge-two-binary-trees](https://github.com/hardikbang-1661/DSA-practice/tree/master/0617-merge-two-binary-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/hardikbang-1661/DSA-practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0200-number-of-islands](https://github.com/hardikbang-1661/DSA-practice/tree/master/0200-number-of-islands) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/hardikbang-1661/DSA-practice/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/hardikbang-1661/DSA-practice/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/hardikbang-1661/DSA-practice/tree/master/0617-merge-two-binary-trees) |
 | [0695-max-area-of-island](https://github.com/hardikbang-1661/DSA-practice/tree/master/0695-max-area-of-island) |
@@ -162,12 +164,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/hardikbang-1661/DSA-practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/hardikbang-1661/DSA-practice/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/hardikbang-1661/DSA-practice/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0617-merge-two-binary-trees](https://github.com/hardikbang-1661/DSA-practice/tree/master/0617-merge-two-binary-trees) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/hardikbang-1661/DSA-practice/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/hardikbang-1661/DSA-practice/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/hardikbang-1661/DSA-practice/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/hardikbang-1661/DSA-practice/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/hardikbang-1661/DSA-practice/tree/master/0617-merge-two-binary-trees) |
 | [0695-max-area-of-island](https://github.com/hardikbang-1661/DSA-practice/tree/master/0695-max-area-of-island) |
@@ -178,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/hardikbang-1661/DSA-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/hardikbang-1661/DSA-practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0287-find-the-duplicate-number](https://github.com/hardikbang-1661/DSA-practice/tree/master/0287-find-the-duplicate-number) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/hardikbang-1661/DSA-practice/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/hardikbang-1661/DSA-practice/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 ## Geometry
 |  |
