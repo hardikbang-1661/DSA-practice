@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/hardikbang-1661/DSA-practice/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/hardikbang-1661/DSA-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/hardikbang-1661/DSA-practice/tree/master/0229-majority-element-ii) |
+| [0290-word-pattern](https://github.com/hardikbang-1661/DSA-practice/tree/master/0290-word-pattern) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/hardikbang-1661/DSA-practice/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0575-distribute-candies](https://github.com/hardikbang-1661/DSA-practice/tree/master/0575-distribute-candies) |
 | [0692-top-k-frequent-words](https://github.com/hardikbang-1661/DSA-practice/tree/master/0692-top-k-frequent-words) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0290-word-pattern](https://github.com/hardikbang-1661/DSA-practice/tree/master/0290-word-pattern) |
 | [0692-top-k-frequent-words](https://github.com/hardikbang-1661/DSA-practice/tree/master/0692-top-k-frequent-words) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/hardikbang-1661/DSA-practice/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/hardikbang-1661/DSA-practice/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
