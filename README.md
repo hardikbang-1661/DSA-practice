@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/hardikbang-1661/DSA-practice/tree/master/0733-flood-fill) |
 | [0781-rabbits-in-forest](https://github.com/hardikbang-1661/DSA-practice/tree/master/0781-rabbits-in-forest) |
 | [0877-stone-game](https://github.com/hardikbang-1661/DSA-practice/tree/master/0877-stone-game) |
+| [0994-rotting-oranges](https://github.com/hardikbang-1661/DSA-practice/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/hardikbang-1661/DSA-practice/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/hardikbang-1661/DSA-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/hardikbang-1661/DSA-practice/tree/master/1814-count-nice-pairs-in-an-array) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/hardikbang-1661/DSA-practice/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/hardikbang-1661/DSA-practice/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/hardikbang-1661/DSA-practice/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/hardikbang-1661/DSA-practice/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/hardikbang-1661/DSA-practice/tree/master/1260-shift-2d-grid) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/hardikbang-1661/DSA-practice/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 ## Tree
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/hardikbang-1661/DSA-practice/tree/master/0617-merge-two-binary-trees) |
 | [0695-max-area-of-island](https://github.com/hardikbang-1661/DSA-practice/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/hardikbang-1661/DSA-practice/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/hardikbang-1661/DSA-practice/tree/master/0994-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
