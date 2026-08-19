@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/hardikbang-1661/DSA-practice/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/hardikbang-1661/DSA-practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/hardikbang-1661/DSA-practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0404-sum-of-left-leaves](https://github.com/hardikbang-1661/DSA-practice/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/hardikbang-1661/DSA-practice/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0617-merge-two-binary-trees](https://github.com/hardikbang-1661/DSA-practice/tree/master/0617-merge-two-binary-trees) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/hardikbang-1661/DSA-practice/tree/master/0988-smallest-string-starting-from-leaf) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/hardikbang-1661/DSA-practice/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/hardikbang-1661/DSA-practice/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0200-number-of-islands](https://github.com/hardikbang-1661/DSA-practice/tree/master/0200-number-of-islands) |
+| [0404-sum-of-left-leaves](https://github.com/hardikbang-1661/DSA-practice/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/hardikbang-1661/DSA-practice/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/hardikbang-1661/DSA-practice/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/hardikbang-1661/DSA-practice/tree/master/0617-merge-two-binary-trees) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/hardikbang-1661/DSA-practice/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/hardikbang-1661/DSA-practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/hardikbang-1661/DSA-practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0404-sum-of-left-leaves](https://github.com/hardikbang-1661/DSA-practice/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/hardikbang-1661/DSA-practice/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0617-merge-two-binary-trees](https://github.com/hardikbang-1661/DSA-practice/tree/master/0617-merge-two-binary-trees) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/hardikbang-1661/DSA-practice/tree/master/0988-smallest-string-starting-from-leaf) |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/hardikbang-1661/DSA-practice/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/hardikbang-1661/DSA-practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/hardikbang-1661/DSA-practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0404-sum-of-left-leaves](https://github.com/hardikbang-1661/DSA-practice/tree/master/0404-sum-of-left-leaves) |
 | [0419-battleships-in-a-board](https://github.com/hardikbang-1661/DSA-practice/tree/master/0419-battleships-in-a-board) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/hardikbang-1661/DSA-practice/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/hardikbang-1661/DSA-practice/tree/master/0547-number-of-provinces) |
