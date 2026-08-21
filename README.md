@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0781-rabbits-in-forest](https://github.com/hardikbang-1661/DSA-practice/tree/master/0781-rabbits-in-forest) |
 | [0877-stone-game](https://github.com/hardikbang-1661/DSA-practice/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/hardikbang-1661/DSA-practice/tree/master/0994-rotting-oranges) |
+| [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/hardikbang-1661/DSA-practice/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1260-shift-2d-grid](https://github.com/hardikbang-1661/DSA-practice/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/hardikbang-1661/DSA-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/hardikbang-1661/DSA-practice/tree/master/1814-count-nice-pairs-in-an-array) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/hardikbang-1661/DSA-practice/tree/master/0575-distribute-candies) |
 | [0692-top-k-frequent-words](https://github.com/hardikbang-1661/DSA-practice/tree/master/0692-top-k-frequent-words) |
 | [0781-rabbits-in-forest](https://github.com/hardikbang-1661/DSA-practice/tree/master/0781-rabbits-in-forest) |
+| [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/hardikbang-1661/DSA-practice/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/hardikbang-1661/DSA-practice/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/hardikbang-1661/DSA-practice/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2364-count-number-of-bad-pairs](https://github.com/hardikbang-1661/DSA-practice/tree/master/2364-count-number-of-bad-pairs) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/hardikbang-1661/DSA-practice/tree/master/0290-word-pattern) |
 | [0692-top-k-frequent-words](https://github.com/hardikbang-1661/DSA-practice/tree/master/0692-top-k-frequent-words) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/hardikbang-1661/DSA-practice/tree/master/0988-smallest-string-starting-from-leaf) |
+| [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/hardikbang-1661/DSA-practice/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/hardikbang-1661/DSA-practice/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/hardikbang-1661/DSA-practice/tree/master/1513-number-of-substrings-with-only-1s) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/hardikbang-1661/DSA-practice/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/hardikbang-1661/DSA-practice/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/hardikbang-1661/DSA-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/hardikbang-1661/DSA-practice/tree/master/0692-top-k-frequent-words) |
+| [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/hardikbang-1661/DSA-practice/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/hardikbang-1661/DSA-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/hardikbang-1661/DSA-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/hardikbang-1661/DSA-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -255,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/hardikbang-1661/DSA-practice/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/hardikbang-1661/DSA-practice/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0713-subarray-product-less-than-k](https://github.com/hardikbang-1661/DSA-practice/tree/master/0713-subarray-product-less-than-k) |
+| [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/hardikbang-1661/DSA-practice/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/hardikbang-1661/DSA-practice/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 ## Geometry
 |  |
