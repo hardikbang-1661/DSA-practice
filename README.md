@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/hardikbang-1661/DSA-practice/tree/master/0151-reverse-words-in-a-string) |
 | [0290-word-pattern](https://github.com/hardikbang-1661/DSA-practice/tree/master/0290-word-pattern) |
+| [0443-string-compression](https://github.com/hardikbang-1661/DSA-practice/tree/master/0443-string-compression) |
 | [0692-top-k-frequent-words](https://github.com/hardikbang-1661/DSA-practice/tree/master/0692-top-k-frequent-words) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/hardikbang-1661/DSA-practice/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/hardikbang-1661/DSA-practice/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/hardikbang-1661/DSA-practice/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/hardikbang-1661/DSA-practice/tree/master/0287-find-the-duplicate-number) |
+| [0443-string-compression](https://github.com/hardikbang-1661/DSA-practice/tree/master/0443-string-compression) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/hardikbang-1661/DSA-practice/tree/master/0532-k-diff-pairs-in-an-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/hardikbang-1661/DSA-practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Matrix
