@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/hardikbang-1661/DSA-practice/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/hardikbang-1661/DSA-practice/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/hardikbang-1661/DSA-practice/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/hardikbang-1661/DSA-practice/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/hardikbang-1661/DSA-practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/hardikbang-1661/DSA-practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3513-number-of-unique-xor-triplets-i](https://github.com/hardikbang-1661/DSA-practice/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/hardikbang-1661/DSA-practice/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3523-make-array-non-decreasing](https://github.com/hardikbang-1661/DSA-practice/tree/master/3523-make-array-non-decreasing) |
+| [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/hardikbang-1661/DSA-practice/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3731-find-missing-elements](https://github.com/hardikbang-1661/DSA-practice/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/hardikbang-1661/DSA-practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/hardikbang-1661/DSA-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/hardikbang-1661/DSA-practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/hardikbang-1661/DSA-practice/tree/master/3536-maximum-product-of-two-digits) |
+| [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/hardikbang-1661/DSA-practice/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3731-find-missing-elements](https://github.com/hardikbang-1661/DSA-practice/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/hardikbang-1661/DSA-practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting
@@ -324,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/hardikbang-1661/DSA-practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/hardikbang-1661/DSA-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3523-make-array-non-decreasing](https://github.com/hardikbang-1661/DSA-practice/tree/master/3523-make-array-non-decreasing) |
+| [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/hardikbang-1661/DSA-practice/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -336,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/hardikbang-1661/DSA-practice/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/hardikbang-1661/DSA-practice/tree/master/0877-stone-game) |
 | [2029-stone-game-ix](https://github.com/hardikbang-1661/DSA-practice/tree/master/2029-stone-game-ix) |
+| [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/hardikbang-1661/DSA-practice/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 ## Backtracking
 |  |
 | ------- |
