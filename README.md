@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/hardikbang-1661/DSA-practice/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/hardikbang-1661/DSA-practice/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/hardikbang-1661/DSA-practice/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3828-final-element-after-subarray-deletions](https://github.com/hardikbang-1661/DSA-practice/tree/master/3828-final-element-after-subarray-deletions) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/hardikbang-1661/DSA-practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3523-make-array-non-decreasing](https://github.com/hardikbang-1661/DSA-practice/tree/master/3523-make-array-non-decreasing) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/hardikbang-1661/DSA-practice/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3731-find-missing-elements](https://github.com/hardikbang-1661/DSA-practice/tree/master/3731-find-missing-elements) |
+| [3828-final-element-after-subarray-deletions](https://github.com/hardikbang-1661/DSA-practice/tree/master/3828-final-element-after-subarray-deletions) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/hardikbang-1661/DSA-practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/hardikbang-1661/DSA-practice/tree/master/0877-stone-game) |
 | [2029-stone-game-ix](https://github.com/hardikbang-1661/DSA-practice/tree/master/2029-stone-game-ix) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/hardikbang-1661/DSA-practice/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
+| [3828-final-element-after-subarray-deletions](https://github.com/hardikbang-1661/DSA-practice/tree/master/3828-final-element-after-subarray-deletions) |
 ## Backtracking
 |  |
 | ------- |
@@ -390,4 +393,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/hardikbang-1661/DSA-practice/tree/master/0456-132-pattern) |
+## Brainteaser
+|  |
+| ------- |
+| [3828-final-element-after-subarray-deletions](https://github.com/hardikbang-1661/DSA-practice/tree/master/3828-final-element-after-subarray-deletions) |
 <!---LeetCode Topics End-->
