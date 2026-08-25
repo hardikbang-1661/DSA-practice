@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/hardikbang-1661/DSA-practice/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3523-make-array-non-decreasing](https://github.com/hardikbang-1661/DSA-practice/tree/master/3523-make-array-non-decreasing) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/hardikbang-1661/DSA-practice/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/hardikbang-1661/DSA-practice/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/hardikbang-1661/DSA-practice/tree/master/3731-find-missing-elements) |
 | [3828-final-element-after-subarray-deletions](https://github.com/hardikbang-1661/DSA-practice/tree/master/3828-final-element-after-subarray-deletions) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/hardikbang-1661/DSA-practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/hardikbang-1661/DSA-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/hardikbang-1661/DSA-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/hardikbang-1661/DSA-practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/hardikbang-1661/DSA-practice/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/hardikbang-1661/DSA-practice/tree/master/3731-find-missing-elements) |
 ## Union-Find
 |  |
