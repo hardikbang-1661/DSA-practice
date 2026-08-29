@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/hardikbang-1661/DSA-practice/tree/master/0456-132-pattern) |
 | [0486-predict-the-winner](https://github.com/hardikbang-1661/DSA-practice/tree/master/0486-predict-the-winner) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/hardikbang-1661/DSA-practice/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/hardikbang-1661/DSA-practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0575-distribute-candies](https://github.com/hardikbang-1661/DSA-practice/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/hardikbang-1661/DSA-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/hardikbang-1661/DSA-practice/tree/master/0692-top-k-frequent-words) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/hardikbang-1661/DSA-practice/tree/master/0456-132-pattern) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/hardikbang-1661/DSA-practice/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/hardikbang-1661/DSA-practice/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/hardikbang-1661/DSA-practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0713-subarray-product-less-than-k](https://github.com/hardikbang-1661/DSA-practice/tree/master/0713-subarray-product-less-than-k) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/hardikbang-1661/DSA-practice/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/hardikbang-1661/DSA-practice/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
