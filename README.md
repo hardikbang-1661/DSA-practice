@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/hardikbang-1661/DSA-practice/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/hardikbang-1661/DSA-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/hardikbang-1661/DSA-practice/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/hardikbang-1661/DSA-practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/hardikbang-1661/DSA-practice/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2364-count-number-of-bad-pairs](https://github.com/hardikbang-1661/DSA-practice/tree/master/2364-count-number-of-bad-pairs) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/hardikbang-1661/DSA-practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0781-rabbits-in-forest](https://github.com/hardikbang-1661/DSA-practice/tree/master/0781-rabbits-in-forest) |
 | [0991-broken-calculator](https://github.com/hardikbang-1661/DSA-practice/tree/master/0991-broken-calculator) |
 | [2029-stone-game-ix](https://github.com/hardikbang-1661/DSA-practice/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/hardikbang-1661/DSA-practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/hardikbang-1661/DSA-practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/hardikbang-1661/DSA-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3523-make-array-non-decreasing](https://github.com/hardikbang-1661/DSA-practice/tree/master/3523-make-array-non-decreasing) |
