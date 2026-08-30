@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/hardikbang-1661/DSA-practice/tree/master/2029-stone-game-ix) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/hardikbang-1661/DSA-practice/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2364-count-number-of-bad-pairs](https://github.com/hardikbang-1661/DSA-practice/tree/master/2364-count-number-of-bad-pairs) |
+| [2485-find-the-pivot-integer](https://github.com/hardikbang-1661/DSA-practice/tree/master/2485-find-the-pivot-integer) |
 | [2550-count-collisions-of-monkeys-on-a-polygon](https://github.com/hardikbang-1661/DSA-practice/tree/master/2550-count-collisions-of-monkeys-on-a-polygon) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/hardikbang-1661/DSA-practice/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/hardikbang-1661/DSA-practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/hardikbang-1661/DSA-practice/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/hardikbang-1661/DSA-practice/tree/master/0724-find-pivot-index) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/hardikbang-1661/DSA-practice/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
+| [2485-find-the-pivot-integer](https://github.com/hardikbang-1661/DSA-practice/tree/master/2485-find-the-pivot-integer) |
 ## Greedy
 |  |
 | ------- |
