@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/hardikbang-1661/DSA-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0781-rabbits-in-forest](https://github.com/hardikbang-1661/DSA-practice/tree/master/0781-rabbits-in-forest) |
 | [0877-stone-game](https://github.com/hardikbang-1661/DSA-practice/tree/master/0877-stone-game) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/hardikbang-1661/DSA-practice/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0991-broken-calculator](https://github.com/hardikbang-1661/DSA-practice/tree/master/0991-broken-calculator) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/hardikbang-1661/DSA-practice/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/hardikbang-1661/DSA-practice/tree/master/1814-count-nice-pairs-in-an-array) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0781-rabbits-in-forest](https://github.com/hardikbang-1661/DSA-practice/tree/master/0781-rabbits-in-forest) |
 | [0804-unique-morse-code-words](https://github.com/hardikbang-1661/DSA-practice/tree/master/0804-unique-morse-code-words) |
 | [0877-stone-game](https://github.com/hardikbang-1661/DSA-practice/tree/master/0877-stone-game) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/hardikbang-1661/DSA-practice/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0962-maximum-width-ramp](https://github.com/hardikbang-1661/DSA-practice/tree/master/0962-maximum-width-ramp) |
 | [0994-rotting-oranges](https://github.com/hardikbang-1661/DSA-practice/tree/master/0994-rotting-oranges) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/hardikbang-1661/DSA-practice/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/hardikbang-1661/DSA-practice/tree/master/0692-top-k-frequent-words) |
 | [0781-rabbits-in-forest](https://github.com/hardikbang-1661/DSA-practice/tree/master/0781-rabbits-in-forest) |
 | [0804-unique-morse-code-words](https://github.com/hardikbang-1661/DSA-practice/tree/master/0804-unique-morse-code-words) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/hardikbang-1661/DSA-practice/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/hardikbang-1661/DSA-practice/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/hardikbang-1661/DSA-practice/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/hardikbang-1661/DSA-practice/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0229-majority-element-ii](https://github.com/hardikbang-1661/DSA-practice/tree/master/0229-majority-element-ii) |
 | [0692-top-k-frequent-words](https://github.com/hardikbang-1661/DSA-practice/tree/master/0692-top-k-frequent-words) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/hardikbang-1661/DSA-practice/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/hardikbang-1661/DSA-practice/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2029-stone-game-ix](https://github.com/hardikbang-1661/DSA-practice/tree/master/2029-stone-game-ix) |
 | [2364-count-number-of-bad-pairs](https://github.com/hardikbang-1661/DSA-practice/tree/master/2364-count-number-of-bad-pairs) |
@@ -168,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/hardikbang-1661/DSA-practice/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/hardikbang-1661/DSA-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/hardikbang-1661/DSA-practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/hardikbang-1661/DSA-practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -420,4 +425,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3828-final-element-after-subarray-deletions](https://github.com/hardikbang-1661/DSA-practice/tree/master/3828-final-element-after-subarray-deletions) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/hardikbang-1661/DSA-practice/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/hardikbang-1661/DSA-practice/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 <!---LeetCode Topics End-->
