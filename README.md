@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/hardikbang-1661/DSA-practice/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/hardikbang-1661/DSA-practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/hardikbang-1661/DSA-practice/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/hardikbang-1661/DSA-practice/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2364-count-number-of-bad-pairs](https://github.com/hardikbang-1661/DSA-practice/tree/master/2364-count-number-of-bad-pairs) |
 | [2498-frog-jump-ii](https://github.com/hardikbang-1661/DSA-practice/tree/master/2498-frog-jump-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/hardikbang-1661/DSA-practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/hardikbang-1661/DSA-practice/tree/master/0692-top-k-frequent-words) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/hardikbang-1661/DSA-practice/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/hardikbang-1661/DSA-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/hardikbang-1661/DSA-practice/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/hardikbang-1661/DSA-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/hardikbang-1661/DSA-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3467-transform-array-by-parity](https://github.com/hardikbang-1661/DSA-practice/tree/master/3467-transform-array-by-parity) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/hardikbang-1661/DSA-practice/tree/master/0443-string-compression) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/hardikbang-1661/DSA-practice/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0962-maximum-width-ramp](https://github.com/hardikbang-1661/DSA-practice/tree/master/0962-maximum-width-ramp) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/hardikbang-1661/DSA-practice/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/hardikbang-1661/DSA-practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Matrix
 |  |
@@ -297,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/hardikbang-1661/DSA-practice/tree/master/0713-subarray-product-less-than-k) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/hardikbang-1661/DSA-practice/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/hardikbang-1661/DSA-practice/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/hardikbang-1661/DSA-practice/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2498-frog-jump-ii](https://github.com/hardikbang-1661/DSA-practice/tree/master/2498-frog-jump-ii) |
 ## Geometry
 |  |
