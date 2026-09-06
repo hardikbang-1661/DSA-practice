@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/hardikbang-1661/DSA-practice/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2364-count-number-of-bad-pairs](https://github.com/hardikbang-1661/DSA-practice/tree/master/2364-count-number-of-bad-pairs) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/hardikbang-1661/DSA-practice/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2475-number-of-unequal-triplets-in-array](https://github.com/hardikbang-1661/DSA-practice/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2498-frog-jump-ii](https://github.com/hardikbang-1661/DSA-practice/tree/master/2498-frog-jump-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/hardikbang-1661/DSA-practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/hardikbang-1661/DSA-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1814-count-nice-pairs-in-an-array](https://github.com/hardikbang-1661/DSA-practice/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/hardikbang-1661/DSA-practice/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2364-count-number-of-bad-pairs](https://github.com/hardikbang-1661/DSA-practice/tree/master/2364-count-number-of-bad-pairs) |
+| [2475-number-of-unequal-triplets-in-array](https://github.com/hardikbang-1661/DSA-practice/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/hardikbang-1661/DSA-practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/hardikbang-1661/DSA-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/hardikbang-1661/DSA-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/hardikbang-1661/DSA-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/hardikbang-1661/DSA-practice/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/hardikbang-1661/DSA-practice/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2475-number-of-unequal-triplets-in-array](https://github.com/hardikbang-1661/DSA-practice/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/hardikbang-1661/DSA-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/hardikbang-1661/DSA-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3467-transform-array-by-parity](https://github.com/hardikbang-1661/DSA-practice/tree/master/3467-transform-array-by-parity) |
