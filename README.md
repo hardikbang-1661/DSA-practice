@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/hardikbang-1661/DSA-practice/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/hardikbang-1661/DSA-practice/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2498-frog-jump-ii](https://github.com/hardikbang-1661/DSA-practice/tree/master/2498-frog-jump-ii) |
+| [2909-minimum-sum-of-mountain-triplets-ii](https://github.com/hardikbang-1661/DSA-practice/tree/master/2909-minimum-sum-of-mountain-triplets-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/hardikbang-1661/DSA-practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/hardikbang-1661/DSA-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/hardikbang-1661/DSA-practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/hardikbang-1661/DSA-practice/tree/master/0724-find-pivot-index) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/hardikbang-1661/DSA-practice/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [2485-find-the-pivot-integer](https://github.com/hardikbang-1661/DSA-practice/tree/master/2485-find-the-pivot-integer) |
+| [2909-minimum-sum-of-mountain-triplets-ii](https://github.com/hardikbang-1661/DSA-practice/tree/master/2909-minimum-sum-of-mountain-triplets-ii) |
 | [3903-smallest-stable-index-i](https://github.com/hardikbang-1661/DSA-practice/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/hardikbang-1661/DSA-practice/tree/master/3904-smallest-stable-index-ii) |
 ## Greedy
