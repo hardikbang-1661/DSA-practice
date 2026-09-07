@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0223-rectangle-area](https://github.com/hardikbang-1661/DSA-practice/tree/master/0223-rectangle-area) |
 | [0486-predict-the-winner](https://github.com/hardikbang-1661/DSA-practice/tree/master/0486-predict-the-winner) |
+| [0537-complex-number-multiplication](https://github.com/hardikbang-1661/DSA-practice/tree/master/0537-complex-number-multiplication) |
 | [0628-maximum-product-of-three-numbers](https://github.com/hardikbang-1661/DSA-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0781-rabbits-in-forest](https://github.com/hardikbang-1661/DSA-practice/tree/master/0781-rabbits-in-forest) |
 | [0877-stone-game](https://github.com/hardikbang-1661/DSA-practice/tree/master/0877-stone-game) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/hardikbang-1661/DSA-practice/tree/master/0054-spiral-matrix) |
+| [0537-complex-number-multiplication](https://github.com/hardikbang-1661/DSA-practice/tree/master/0537-complex-number-multiplication) |
 | [1260-shift-2d-grid](https://github.com/hardikbang-1661/DSA-practice/tree/master/1260-shift-2d-grid) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/hardikbang-1661/DSA-practice/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/hardikbang-1661/DSA-practice/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/hardikbang-1661/DSA-practice/tree/master/0151-reverse-words-in-a-string) |
 | [0290-word-pattern](https://github.com/hardikbang-1661/DSA-practice/tree/master/0290-word-pattern) |
 | [0443-string-compression](https://github.com/hardikbang-1661/DSA-practice/tree/master/0443-string-compression) |
+| [0537-complex-number-multiplication](https://github.com/hardikbang-1661/DSA-practice/tree/master/0537-complex-number-multiplication) |
 | [0692-top-k-frequent-words](https://github.com/hardikbang-1661/DSA-practice/tree/master/0692-top-k-frequent-words) |
 | [0804-unique-morse-code-words](https://github.com/hardikbang-1661/DSA-practice/tree/master/0804-unique-morse-code-words) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/hardikbang-1661/DSA-practice/tree/master/0988-smallest-string-starting-from-leaf) |
