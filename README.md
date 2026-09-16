@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/hardikbang-1661/DSA-practice/tree/master/0804-unique-morse-code-words) |
 | [0877-stone-game](https://github.com/hardikbang-1661/DSA-practice/tree/master/0877-stone-game) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/hardikbang-1661/DSA-practice/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [0915-partition-array-into-disjoint-intervals](https://github.com/hardikbang-1661/DSA-practice/tree/master/0915-partition-array-into-disjoint-intervals) |
 | [0962-maximum-width-ramp](https://github.com/hardikbang-1661/DSA-practice/tree/master/0962-maximum-width-ramp) |
 | [0994-rotting-oranges](https://github.com/hardikbang-1661/DSA-practice/tree/master/0994-rotting-oranges) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/hardikbang-1661/DSA-practice/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
