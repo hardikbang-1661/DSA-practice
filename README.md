@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/hardikbang-1661/DSA-practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0575-distribute-candies](https://github.com/hardikbang-1661/DSA-practice/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/hardikbang-1661/DSA-practice/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/hardikbang-1661/DSA-practice/tree/master/0643-maximum-average-subarray-i) |
 | [0692-top-k-frequent-words](https://github.com/hardikbang-1661/DSA-practice/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/hardikbang-1661/DSA-practice/tree/master/0695-max-area-of-island) |
 | [0713-subarray-product-less-than-k](https://github.com/hardikbang-1661/DSA-practice/tree/master/0713-subarray-product-less-than-k) |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/hardikbang-1661/DSA-practice/tree/master/0209-minimum-size-subarray-sum) |
+| [0643-maximum-average-subarray-i](https://github.com/hardikbang-1661/DSA-practice/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/hardikbang-1661/DSA-practice/tree/master/0713-subarray-product-less-than-k) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/hardikbang-1661/DSA-practice/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/hardikbang-1661/DSA-practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
