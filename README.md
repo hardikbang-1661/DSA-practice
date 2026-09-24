@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3513-number-of-unique-xor-triplets-i](https://github.com/hardikbang-1661/DSA-practice/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/hardikbang-1661/DSA-practice/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/hardikbang-1661/DSA-practice/tree/master/3536-maximum-product-of-two-digits) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/hardikbang-1661/DSA-practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/hardikbang-1661/DSA-practice/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/hardikbang-1661/DSA-practice/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/hardikbang-1661/DSA-practice/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3513-number-of-unique-xor-triplets-i](https://github.com/hardikbang-1661/DSA-practice/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/hardikbang-1661/DSA-practice/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3523-make-array-non-decreasing](https://github.com/hardikbang-1661/DSA-practice/tree/master/3523-make-array-non-decreasing) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/hardikbang-1661/DSA-practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/hardikbang-1661/DSA-practice/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/hardikbang-1661/DSA-practice/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/hardikbang-1661/DSA-practice/tree/master/3731-find-missing-elements) |
