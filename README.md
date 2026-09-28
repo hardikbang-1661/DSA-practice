@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/hardikbang-1661/DSA-practice/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/hardikbang-1661/DSA-practice/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/hardikbang-1661/DSA-practice/tree/master/1513-number-of-substrings-with-only-1s) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/hardikbang-1661/DSA-practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/hardikbang-1661/DSA-practice/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/hardikbang-1661/DSA-practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/hardikbang-1661/DSA-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -443,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/hardikbang-1661/DSA-practice/tree/master/0456-132-pattern) |
 | [0735-asteroid-collision](https://github.com/hardikbang-1661/DSA-practice/tree/master/0735-asteroid-collision) |
 | [0962-maximum-width-ramp](https://github.com/hardikbang-1661/DSA-practice/tree/master/0962-maximum-width-ramp) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/hardikbang-1661/DSA-practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/hardikbang-1661/DSA-practice/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3523-make-array-non-decreasing](https://github.com/hardikbang-1661/DSA-practice/tree/master/3523-make-array-non-decreasing) |
 ## Binary Lifting
@@ -494,4 +496,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/hardikbang-1661/DSA-practice/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/hardikbang-1661/DSA-practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
