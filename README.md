@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/hardikbang-1661/DSA-practice/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/hardikbang-1661/DSA-practice/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/hardikbang-1661/DSA-practice/tree/master/0735-asteroid-collision) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/hardikbang-1661/DSA-practice/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0781-rabbits-in-forest](https://github.com/hardikbang-1661/DSA-practice/tree/master/0781-rabbits-in-forest) |
 | [0804-unique-morse-code-words](https://github.com/hardikbang-1661/DSA-practice/tree/master/0804-unique-morse-code-words) |
 | [0877-stone-game](https://github.com/hardikbang-1661/DSA-practice/tree/master/0877-stone-game) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/hardikbang-1661/DSA-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/hardikbang-1661/DSA-practice/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/hardikbang-1661/DSA-practice/tree/master/0692-top-k-frequent-words) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/hardikbang-1661/DSA-practice/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/hardikbang-1661/DSA-practice/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/hardikbang-1661/DSA-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2126-destroying-asteroids](https://github.com/hardikbang-1661/DSA-practice/tree/master/2126-destroying-asteroids) |
