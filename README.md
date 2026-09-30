@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/hardikbang-1661/DSA-practice/tree/master/0692-top-k-frequent-words) |
 | [0804-unique-morse-code-words](https://github.com/hardikbang-1661/DSA-practice/tree/master/0804-unique-morse-code-words) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/hardikbang-1661/DSA-practice/tree/master/0988-smallest-string-starting-from-leaf) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/hardikbang-1661/DSA-practice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/hardikbang-1661/DSA-practice/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/hardikbang-1661/DSA-practice/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/hardikbang-1661/DSA-practice/tree/master/1513-number-of-substrings-with-only-1s) |
@@ -446,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/hardikbang-1661/DSA-practice/tree/master/0456-132-pattern) |
 | [0735-asteroid-collision](https://github.com/hardikbang-1661/DSA-practice/tree/master/0735-asteroid-collision) |
 | [0962-maximum-width-ramp](https://github.com/hardikbang-1661/DSA-practice/tree/master/0962-maximum-width-ramp) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/hardikbang-1661/DSA-practice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/hardikbang-1661/DSA-practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/hardikbang-1661/DSA-practice/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3523-make-array-non-decreasing](https://github.com/hardikbang-1661/DSA-practice/tree/master/3523-make-array-non-decreasing) |
@@ -501,5 +503,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/hardikbang-1661/DSA-practice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/hardikbang-1661/DSA-practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
