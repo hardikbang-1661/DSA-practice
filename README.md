@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/hardikbang-1661/DSA-practice/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/hardikbang-1661/DSA-practice/tree/master/0151-reverse-words-in-a-string) |
 | [0290-word-pattern](https://github.com/hardikbang-1661/DSA-practice/tree/master/0290-word-pattern) |
 | [0443-string-compression](https://github.com/hardikbang-1661/DSA-practice/tree/master/0443-string-compression) |
@@ -443,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/hardikbang-1661/DSA-practice/tree/master/0020-valid-parentheses) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/hardikbang-1661/DSA-practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0456-132-pattern](https://github.com/hardikbang-1661/DSA-practice/tree/master/0456-132-pattern) |
 | [0735-asteroid-collision](https://github.com/hardikbang-1661/DSA-practice/tree/master/0735-asteroid-collision) |
@@ -503,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/hardikbang-1661/DSA-practice/tree/master/0020-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/hardikbang-1661/DSA-practice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/hardikbang-1661/DSA-practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
