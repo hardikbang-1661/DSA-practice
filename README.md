@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/hardikbang-1661/DSA-practice/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/hardikbang-1661/DSA-practice/tree/master/0022-generate-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/hardikbang-1661/DSA-practice/tree/master/0151-reverse-words-in-a-string) |
 | [0290-word-pattern](https://github.com/hardikbang-1661/DSA-practice/tree/master/0290-word-pattern) |
 | [0443-string-compression](https://github.com/hardikbang-1661/DSA-practice/tree/master/0443-string-compression) |
@@ -423,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/hardikbang-1661/DSA-practice/tree/master/0022-generate-parentheses) |
 | [0198-house-robber](https://github.com/hardikbang-1661/DSA-practice/tree/master/0198-house-robber) |
 | [0486-predict-the-winner](https://github.com/hardikbang-1661/DSA-practice/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/hardikbang-1661/DSA-practice/tree/master/0877-stone-game) |
@@ -438,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/hardikbang-1661/DSA-practice/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/hardikbang-1661/DSA-practice/tree/master/0039-combination-sum) |
 | [0113-path-sum-ii](https://github.com/hardikbang-1661/DSA-practice/tree/master/0113-path-sum-ii) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/hardikbang-1661/DSA-practice/tree/master/0988-smallest-string-starting-from-leaf) |
@@ -506,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/hardikbang-1661/DSA-practice/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/hardikbang-1661/DSA-practice/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/hardikbang-1661/DSA-practice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/hardikbang-1661/DSA-practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
