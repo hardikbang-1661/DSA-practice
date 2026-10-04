@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/hardikbang-1661/DSA-practice/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/hardikbang-1661/DSA-practice/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/hardikbang-1661/DSA-practice/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2390-removing-stars-from-a-string](https://github.com/hardikbang-1661/DSA-practice/tree/master/2390-removing-stars-from-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/hardikbang-1661/DSA-practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/hardikbang-1661/DSA-practice/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/hardikbang-1661/DSA-practice/tree/master/3498-reverse-degree-of-a-string) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1513-number-of-substrings-with-only-1s](https://github.com/hardikbang-1661/DSA-practice/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/hardikbang-1661/DSA-practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/hardikbang-1661/DSA-practice/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
+| [2390-removing-stars-from-a-string](https://github.com/hardikbang-1661/DSA-practice/tree/master/2390-removing-stars-from-a-string) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/hardikbang-1661/DSA-practice/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/hardikbang-1661/DSA-practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/hardikbang-1661/DSA-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -471,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/hardikbang-1661/DSA-practice/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/hardikbang-1661/DSA-practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/hardikbang-1661/DSA-practice/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
+| [2390-removing-stars-from-a-string](https://github.com/hardikbang-1661/DSA-practice/tree/master/2390-removing-stars-from-a-string) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/hardikbang-1661/DSA-practice/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3523-make-array-non-decreasing](https://github.com/hardikbang-1661/DSA-practice/tree/master/3523-make-array-non-decreasing) |
 ## Binary Lifting
