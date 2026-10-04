@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/hardikbang-1661/DSA-practice/tree/master/0290-word-pattern) |
 | [0443-string-compression](https://github.com/hardikbang-1661/DSA-practice/tree/master/0443-string-compression) |
 | [0537-complex-number-multiplication](https://github.com/hardikbang-1661/DSA-practice/tree/master/0537-complex-number-multiplication) |
+| [0678-valid-parenthesis-string](https://github.com/hardikbang-1661/DSA-practice/tree/master/0678-valid-parenthesis-string) |
 | [0692-top-k-frequent-words](https://github.com/hardikbang-1661/DSA-practice/tree/master/0692-top-k-frequent-words) |
 | [0804-unique-morse-code-words](https://github.com/hardikbang-1661/DSA-practice/tree/master/0804-unique-morse-code-words) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/hardikbang-1661/DSA-practice/tree/master/0988-smallest-string-starting-from-leaf) |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/hardikbang-1661/DSA-practice/tree/master/0678-valid-parenthesis-string) |
 | [0781-rabbits-in-forest](https://github.com/hardikbang-1661/DSA-practice/tree/master/0781-rabbits-in-forest) |
 | [0991-broken-calculator](https://github.com/hardikbang-1661/DSA-practice/tree/master/0991-broken-calculator) |
 | [2029-stone-game-ix](https://github.com/hardikbang-1661/DSA-practice/tree/master/2029-stone-game-ix) |
@@ -437,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/hardikbang-1661/DSA-practice/tree/master/0032-longest-valid-parentheses) |
 | [0198-house-robber](https://github.com/hardikbang-1661/DSA-practice/tree/master/0198-house-robber) |
 | [0486-predict-the-winner](https://github.com/hardikbang-1661/DSA-practice/tree/master/0486-predict-the-winner) |
+| [0678-valid-parenthesis-string](https://github.com/hardikbang-1661/DSA-practice/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/hardikbang-1661/DSA-practice/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
@@ -461,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/hardikbang-1661/DSA-practice/tree/master/0032-longest-valid-parentheses) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/hardikbang-1661/DSA-practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0456-132-pattern](https://github.com/hardikbang-1661/DSA-practice/tree/master/0456-132-pattern) |
+| [0678-valid-parenthesis-string](https://github.com/hardikbang-1661/DSA-practice/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/hardikbang-1661/DSA-practice/tree/master/0735-asteroid-collision) |
 | [0962-maximum-width-ramp](https://github.com/hardikbang-1661/DSA-practice/tree/master/0962-maximum-width-ramp) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/hardikbang-1661/DSA-practice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -524,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/hardikbang-1661/DSA-practice/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/hardikbang-1661/DSA-practice/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/hardikbang-1661/DSA-practice/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/hardikbang-1661/DSA-practice/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/hardikbang-1661/DSA-practice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/hardikbang-1661/DSA-practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/hardikbang-1661/DSA-practice/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
