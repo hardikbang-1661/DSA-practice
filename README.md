@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/hardikbang-1661/DSA-practice/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/hardikbang-1661/DSA-practice/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2498-frog-jump-ii](https://github.com/hardikbang-1661/DSA-practice/tree/master/2498-frog-jump-ii) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/hardikbang-1661/DSA-practice/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2909-minimum-sum-of-mountain-triplets-ii](https://github.com/hardikbang-1661/DSA-practice/tree/master/2909-minimum-sum-of-mountain-triplets-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/hardikbang-1661/DSA-practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/hardikbang-1661/DSA-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -391,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/hardikbang-1661/DSA-practice/tree/master/1925-count-square-sum-triples) |
 | [2249-count-lattice-points-inside-a-circle](https://github.com/hardikbang-1661/DSA-practice/tree/master/2249-count-lattice-points-inside-a-circle) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/hardikbang-1661/DSA-practice/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/hardikbang-1661/DSA-practice/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/hardikbang-1661/DSA-practice/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Trie
