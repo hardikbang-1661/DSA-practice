@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/hardikbang-1661/DSA-practice/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/hardikbang-1661/DSA-practice/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2498-frog-jump-ii](https://github.com/hardikbang-1661/DSA-practice/tree/master/2498-frog-jump-ii) |
+| [2512-reward-top-k-students](https://github.com/hardikbang-1661/DSA-practice/tree/master/2512-reward-top-k-students) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/hardikbang-1661/DSA-practice/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2909-minimum-sum-of-mountain-triplets-ii](https://github.com/hardikbang-1661/DSA-practice/tree/master/2909-minimum-sum-of-mountain-triplets-ii) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/hardikbang-1661/DSA-practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/hardikbang-1661/DSA-practice/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2364-count-number-of-bad-pairs](https://github.com/hardikbang-1661/DSA-practice/tree/master/2364-count-number-of-bad-pairs) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/hardikbang-1661/DSA-practice/tree/master/2475-number-of-unequal-triplets-in-array) |
+| [2512-reward-top-k-students](https://github.com/hardikbang-1661/DSA-practice/tree/master/2512-reward-top-k-students) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/hardikbang-1661/DSA-practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/hardikbang-1661/DSA-practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/hardikbang-1661/DSA-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/hardikbang-1661/DSA-practice/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2390-removing-stars-from-a-string](https://github.com/hardikbang-1661/DSA-practice/tree/master/2390-removing-stars-from-a-string) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/hardikbang-1661/DSA-practice/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
+| [2512-reward-top-k-students](https://github.com/hardikbang-1661/DSA-practice/tree/master/2512-reward-top-k-students) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/hardikbang-1661/DSA-practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/hardikbang-1661/DSA-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/hardikbang-1661/DSA-practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -231,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/hardikbang-1661/DSA-practice/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/hardikbang-1661/DSA-practice/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/hardikbang-1661/DSA-practice/tree/master/2475-number-of-unequal-triplets-in-array) |
+| [2512-reward-top-k-students](https://github.com/hardikbang-1661/DSA-practice/tree/master/2512-reward-top-k-students) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/hardikbang-1661/DSA-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/hardikbang-1661/DSA-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3467-transform-array-by-parity](https://github.com/hardikbang-1661/DSA-practice/tree/master/3467-transform-array-by-parity) |
@@ -280,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/hardikbang-1661/DSA-practice/tree/master/0692-top-k-frequent-words) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/hardikbang-1661/DSA-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/hardikbang-1661/DSA-practice/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2512-reward-top-k-students](https://github.com/hardikbang-1661/DSA-practice/tree/master/2512-reward-top-k-students) |
 ## Merge Sort
 |  |
 | ------- |
