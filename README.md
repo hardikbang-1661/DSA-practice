@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/hardikbang-1661/DSA-practice/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/hardikbang-1661/DSA-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/hardikbang-1661/DSA-practice/tree/master/2029-stone-game-ix) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/hardikbang-1661/DSA-practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2090-k-radius-subarray-averages](https://github.com/hardikbang-1661/DSA-practice/tree/master/2090-k-radius-subarray-averages) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/hardikbang-1661/DSA-practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/hardikbang-1661/DSA-practice/tree/master/2126-destroying-asteroids) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/hardikbang-1661/DSA-practice/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/hardikbang-1661/DSA-practice/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/hardikbang-1661/DSA-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/hardikbang-1661/DSA-practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2126-destroying-asteroids](https://github.com/hardikbang-1661/DSA-practice/tree/master/2126-destroying-asteroids) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/hardikbang-1661/DSA-practice/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/hardikbang-1661/DSA-practice/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/hardikbang-1661/DSA-practice/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/hardikbang-1661/DSA-practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/hardikbang-1661/DSA-practice/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/hardikbang-1661/DSA-practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/hardikbang-1661/DSA-practice/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2498-frog-jump-ii](https://github.com/hardikbang-1661/DSA-practice/tree/master/2498-frog-jump-ii) |
 ## Geometry
