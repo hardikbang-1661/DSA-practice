@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/hardikbang-1661/DSA-practice/tree/master/0486-predict-the-winner) |
 | [0537-complex-number-multiplication](https://github.com/hardikbang-1661/DSA-practice/tree/master/0537-complex-number-multiplication) |
 | [0628-maximum-product-of-three-numbers](https://github.com/hardikbang-1661/DSA-practice/tree/master/0628-maximum-product-of-three-numbers) |
+| [0728-self-dividing-numbers](https://github.com/hardikbang-1661/DSA-practice/tree/master/0728-self-dividing-numbers) |
 | [0781-rabbits-in-forest](https://github.com/hardikbang-1661/DSA-practice/tree/master/0781-rabbits-in-forest) |
 | [0877-stone-game](https://github.com/hardikbang-1661/DSA-practice/tree/master/0877-stone-game) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/hardikbang-1661/DSA-practice/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
