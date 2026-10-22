@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/hardikbang-1661/DSA-practice/tree/master/0735-asteroid-collision) |
 | [1260-shift-2d-grid](https://github.com/hardikbang-1661/DSA-practice/tree/master/1260-shift-2d-grid) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/hardikbang-1661/DSA-practice/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
+| [1929-concatenation-of-array](https://github.com/hardikbang-1661/DSA-practice/tree/master/1929-concatenation-of-array) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/hardikbang-1661/DSA-practice/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/hardikbang-1661/DSA-practice/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/hardikbang-1661/DSA-practice/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/hardikbang-1661/DSA-practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/hardikbang-1661/DSA-practice/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/hardikbang-1661/DSA-practice/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
+| [1929-concatenation-of-array](https://github.com/hardikbang-1661/DSA-practice/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/hardikbang-1661/DSA-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/hardikbang-1661/DSA-practice/tree/master/2029-stone-game-ix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/hardikbang-1661/DSA-practice/tree/master/2089-find-target-indices-after-sorting-array) |
